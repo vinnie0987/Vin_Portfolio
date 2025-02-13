@@ -19,6 +19,12 @@ Standardized key metrics such as campaign start/end dates, revenue calculations,
 Visualized trends using KPIs, bar charts, line graphs, heat maps, and geo-maps to provide actionable insights.
 This dashboard empowers stakeholders with a clear understanding of marketing efficiency, enabling smarter decision-making for future campaigns.
 
+![](https://github.com/vinnie0987/Vin_Portfolio/blob/main/images/Analysis%20on%20Customer%20segments%20checking%20on%20revenue%20roi%20per%20segment.PNG)
+
+![](https://github.com/vinnie0987/Vin_Portfolio/blob/main/images/Monthly%20Campaign%20trend%20analysis%20based%20on%20%20total%20spend%20and%20conversions.PNG)
+
+![](https://github.com/vinnie0987/Vin_Portfolio/blob/main/images/Dashboard%201.PNG)
+
 
 
 
@@ -41,6 +47,12 @@ Standardized time-based metrics for accurate year-over-year comparisons.
 Used KPI cards, line charts, and heat maps to present trends clearly and make insights easily accessible.
 This dashboard provides a comprehensive view of sales performance, helping businesses make informed decisions to optimize growth and profitability.
 
+![](https://github.com/vinnie0987/Vin_Portfolio/blob/main/images/sales%20dashboard.PNG)
+
+![](https://github.com/vinnie0987/Vin_Portfolio/blob/main/images/total%20profits.PNG)
+
+![](https://github.com/vinnie0987/Vin_Portfolio/blob/main/images/sales%20dashboard.PNG)
+
 
 
 # [Project 3: HR Analytics Dashboard]
@@ -61,6 +73,12 @@ Cleaned and structured HR data for consistency and accuracy.
 Used KPI cards, bar charts, and heat maps to present insights in a clear and interactive format.
 Enabled filtering options for users to explore employee records by department, location, or demographics.
 This dashboard provides HR professionals with a data-driven approach to workforce management, helping them make informed decisions on hiring, retention, and compensation strategies.
+
+![https://github.com/vinnie0987/Vin_Portfolio/blob/main/images/Details%20on%20employee%20numbers.PNG]
+
+![https://github.com/vinnie0987/Vin_Portfolio/blob/main/images/Employee%20by%20city%20%26%20state.PNG]
+
+![https://github.com/vinnie0987/Vin_Portfolio/blob/main/images/employee%20dashboard.PNG]
 
 
 
