@@ -1,7 +1,7 @@
 # Vin_Portfolio
 Data Analyst Portfolio
 
-Marketing Campaign Analysis Dashboard | Tableau Project
+#[Project 1 : Marketing Campaign Analysis Dashboard]
 Overview:
 This project focuses on analyzing the effectiveness of marketing campaigns across various channels and customer segments. Using Tableau, I developed an interactive dashboard that helps marketing teams, campaign managers, and executives evaluate campaign performance, identify high-performing channels, and make data-driven decisions.
 
@@ -20,7 +20,7 @@ This dashboard empowers stakeholders with a clear understanding of marketing eff
 
 
 
-Sales Performance Dashboard | Tableau Project
+#[Project 2 : Sales Performance Dashboard]
 Overview:
 This project focuses on analyzing sales performance trends, providing key insights into year-over-year sales, profits, and quantity metrics. Using Tableau, I developed an interactive dashboard that enables businesses to track sales trends, compare product subcategories, and identify peak and low-performing periods.
 
@@ -39,7 +39,7 @@ This dashboard provides a comprehensive view of sales performance, helping busin
 
 
 
-HR Analytics Dashboard | Tableau Project
+#[Project 3: HR Analytics Dashboard]
 Overview:
 This project focuses on analyzing key human resources (HR) metrics to provide insights into workforce composition, employee trends, and salary distributions. Using Tableau, I developed an interactive dashboard that enables HR managers to track hiring and termination trends, analyze demographics, and compare salary patterns across different employee groups.
 
