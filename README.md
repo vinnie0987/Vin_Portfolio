@@ -1,7 +1,7 @@
 # Vin_Portfolio
 Data Analyst Portfolio
 
-[ Project 1 : Marketing Campaign Analysis Dashboard]
+# [Project 1 : Marketing Campaign Analysis Dashboard]
 
 
 Overview:
@@ -22,7 +22,7 @@ This dashboard empowers stakeholders with a clear understanding of marketing eff
 
 
 
-#[Project 2 : Sales Performance Dashboard]
+# [Project 2 : Sales Performance Dashboard]
 
 
 Overview:
@@ -43,7 +43,7 @@ This dashboard provides a comprehensive view of sales performance, helping busin
 
 
 
-#[Project 3: HR Analytics Dashboard]
+# [Project 3: HR Analytics Dashboard]
 
 
 Overview:
