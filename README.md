@@ -1,7 +1,7 @@
 # Vin_Portfolio
 Data Analyst Portfolio
 
-[# Project 1 : Marketing Campaign Analysis Dashboard]
+[ Project 1 : Marketing Campaign Analysis Dashboard]
 Overview:
 This project focuses on analyzing the effectiveness of marketing campaigns across various channels and customer segments. Using Tableau, I developed an interactive dashboard that helps marketing teams, campaign managers, and executives evaluate campaign performance, identify high-performing channels, and make data-driven decisions.
 
