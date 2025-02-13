@@ -74,11 +74,11 @@ Used KPI cards, bar charts, and heat maps to present insights in a clear and int
 Enabled filtering options for users to explore employee records by department, location, or demographics.
 This dashboard provides HR professionals with a data-driven approach to workforce management, helping them make informed decisions on hiring, retention, and compensation strategies.
 
-![https://github.com/vinnie0987/Vin_Portfolio/blob/main/images/Details%20on%20employee%20numbers.PNG]
+![](https://github.com/vinnie0987/Vin_Portfolio/blob/main/images/Details%20on%20employee%20numbers.PNG)
 
-![https://github.com/vinnie0987/Vin_Portfolio/blob/main/images/Employee%20by%20city%20%26%20state.PNG]
+![](https://github.com/vinnie0987/Vin_Portfolio/blob/main/images/Employee%20by%20city%20%26%20state.PNG)
 
-![https://github.com/vinnie0987/Vin_Portfolio/blob/main/images/employee%20dashboard.PNG]
+![](https://github.com/vinnie0987/Vin_Portfolio/blob/main/images/employee%20dashboard.PNG)
 
 
 
