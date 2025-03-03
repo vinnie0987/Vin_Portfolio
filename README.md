@@ -1,4 +1,4 @@
-# Vin_Portfolio
+# Check out my Data Analysis Projects so far
 Data Analyst Portfolio
 
 # [Project 1 : Marketing Campaign Analysis Dashboard]
