@@ -8,8 +8,11 @@ Overview:
 This project focuses on analyzing the effectiveness of marketing campaigns across various channels and customer segments. Using Tableau, I developed an interactive dashboard that helps marketing teams, campaign managers, and executives evaluate campaign performance, identify high-performing channels, and make data-driven decisions.
 
 Key Insights & Visualizations:
+
 🔹 Customer Segment Analysis: Evaluated revenue and ROI across different customer segments to identify the most profitable groups.
+
 🔹 Budget vs. Spend Analysis: Compared actual spend against allocated budgets for all campaigns on a monthly basis, helping optimize resource allocation.
+
 🔹 Campaign Trend Analysis: Tracked total campaign spend over time to identify patterns, seasonal trends, and anomalies in marketing performance.
 
 Data Processing:
@@ -35,9 +38,13 @@ Overview:
 This project focuses on analyzing sales performance trends, providing key insights into year-over-year sales, profits, and quantity metrics. Using Tableau, I developed an interactive dashboard that enables businesses to track sales trends, compare product subcategories, and identify peak and low-performing periods.
 
 Key Insights & Visualizations:
+
 🔹 Monthly Sales Trends: Analyzed total sales and quantity over time, highlighting months with the highest and lowest sales.
+
 🔹 Total Orders & Profits Over Time: Tracked total sales, orders, and profits to understand overall business performance.
+
 🔹 Product Subcategory Comparison: Compared sales and profit performance across different product categories for strategic decision-making.
+
 🔹 Weekly Sales & Profit Trends: Evaluated sales and profit on a weekly basis, identifying weeks performing above or below the average.
 
 Data Processing:
@@ -62,9 +69,13 @@ Overview:
 This project focuses on analyzing key human resources (HR) metrics to provide insights into workforce composition, employee trends, and salary distributions. Using Tableau, I developed an interactive dashboard that enables HR managers to track hiring and termination trends, analyze demographics, and compare salary patterns across different employee groups.
 
 Key Insights & Visualizations:
+
 🔹 Employee Numbers & Trends: Tracked the total number of hired, active, and terminated employees, including weekly trends.
+
 🔹 Employee Distribution by City & State: Mapped workforce distribution across different locations, distinguishing between headquarters and branches.
+
 🔹 Demographics & Gender Ratio: Visualized gender distribution, age groups, and education levels to understand workforce composition.
+
 🔹 HR Dashboard Overview: Provided a summary view of key HR metrics, including employee breakdown by department and job titles.
 
 Data Processing:
